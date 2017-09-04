@@ -1,0 +1,51 @@
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe.config
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.pdb
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csprojResolveAssemblyReference.cache
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Properties.Resources.resources
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.GenerateResource.Cache
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.exe
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.pdb
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\bin\Debug\Interop.WMPLib.dll
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\bin\Debug\AxInterop.WMPLib.dll
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\Interop.WMPLib.dll
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\AxInterop.WMPLib.dll
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.ResolveComReference.cache
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Startup.resources
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Help.resources
+\\telmar\users\js082\my documents\visual studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Game.resources
+\\telmar\users\JS082\My Documents\Visual Studio 2017\Projects\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Hi_Scores.resources
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe.config
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.pdb
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csprojResolveAssemblyReference.cache
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.ResolveComReference.cache
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Game.resources
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Help.resources
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Hi_Scores.resources
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Properties.Resources.resources
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Startup.resources
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.GenerateResource.Cache
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.exe
+C:\Users\Jayden\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.pdb
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe.config
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.exe
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\RussianRouletteGame.pdb
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\Interop.WMPLib.dll
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\bin\Debug\AxInterop.WMPLib.dll
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csprojResolveAssemblyReference.cache
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\Interop.WMPLib.dll
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\AxInterop.WMPLib.dll
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.ResolveComReference.cache
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Game.resources
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Help.resources
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Properties.Resources.resources
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.Startup.resources
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.csproj.GenerateResource.Cache
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.exe
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.pdb
+\\telmar\users\JS082\Desktop\RussianRouletteGame\RussianRouletteGame\obj\Debug\RussianRouletteGame.High_Scores.resources
